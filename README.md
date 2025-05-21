@@ -21,7 +21,7 @@ Please refer to the corresponding official repositories of LLaVA-1.5, Minigpt4, 
 
 Go to our [ModelLoader](./model_loader.py#L171) class (under model_loader.py), and put your actual path.
 
-Download the official MMHal Bench dataset, and modify the path in [load_image](./utils.py#158) (under utils.py) to the folder contains the MMHal Bench images.
+Download the official MMHal Bench dataset, and modify the path in [load_image](./utils.py#L158) (under utils.py) to the folder contains the MMHal Bench images.
 
 We directly changed the source code to implement OPERA and VCD. If you also want to run experiments with those two algorithms, copy the [txt file](./transformers_utils.txt) we provide, and paste to ```transformers/generation/utils.py``` under the transformers package in your environment.
 
