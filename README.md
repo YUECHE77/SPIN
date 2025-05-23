@@ -159,3 +159,19 @@ python gpt_4o_eval.py \
     --api-key your_api_key \
     --output gpt_4o_response.jsonl
 ```
+
+## Acknowledgement
+The partial code for this repo is taken from [PAI](https://github.com/LALBJ/PAI), [OPERA](https://github.com/shikiw/OPERA), and [VCD](https://github.com/DAMO-NLP-SG/VCD)
+
+## Citation
+If you find this repo useful for your research, please consider citing the following work:
+```
+@misc{sarkar2025spin,
+      title={Mitigating Hallucinations in Vision-Language Models through Image-Guided Head Suppression}, 
+      author={Sreetama Sarkar and Yue Che and Alex Gavin and Peter A. Beerel and Souvik Kundu},
+      year={2025},
+      eprint={2505.16411},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.16411}, 
+}
