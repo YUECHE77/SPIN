@@ -1,5 +1,10 @@
 # Mitigating Hallucinations in Vision-Language Models through Image-Guided Head Pruning
 
+<div style='display:flex; gap: 0.25rem; '>
+<a href='https://opensource.org/licenses/MIT'><img src=https://img.shields.io/badge/License-MIT-g.svg></a>
+<a href='https://arxiv.org/abs/2505.16411'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
+</div>
+
 This repository provides detailed instruction for reproducing our results reported in the paper. Other than our method SPIN, we also support PAI, DAMRO, OPERA, and VCD.
 
 ## Environment Setup
