@@ -1,4 +1,4 @@
-# Mitigating Hallucinations in Vision-Language Models through Image-Guided Head Pruning (EMNLP 2025 Main Conference)
+## [***EMNLP 2025 Main Conference***] Mitigating Hallucinations in Vision-Language Models through Image-Guided Head Pruning
 
 <div style='display:flex; gap: 0.25rem; '>
 <a href='https://opensource.org/licenses/MIT'><img src=https://img.shields.io/badge/License-MIT-g.svg></a>
